@@ -1,0 +1,2113 @@
+{
+  "ships": [
+    {
+      "name": "ship-75",
+      "arrivalTime": {
+        "days": -3,
+        "hours": 1,
+        "minutes": 52
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": -3,
+        "minutes": 112
+      },
+      "uploadTime": {
+        "days": 5,
+        "minutes": 1328
+      }
+    },
+    {
+      "name": "ship-17",
+      "arrivalTime": {
+        "days": -2,
+        "hours": 18,
+        "minutes": 59
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": -2,
+        "minutes": 1139
+      },
+      "uploadTime": {
+        "days": 6,
+        "minutes": 301
+      }
+    },
+    {
+      "name": "ship-64",
+      "arrivalTime": {
+        "days": 0,
+        "hours": 7,
+        "minutes": 28
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 0,
+        "minutes": 448
+      },
+      "uploadTime": {
+        "days": 8,
+        "minutes": 992
+      }
+    },
+    {
+      "name": "ship-48",
+      "arrivalTime": {
+        "days": 1,
+        "hours": 10,
+        "minutes": 48
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 23,
+        "minutes": 40
+      },
+      "uploadStart": {
+        "days": 2,
+        "minutes": 628
+      },
+      "uploadTime": {
+        "days": 10,
+        "minutes": 812
+      }
+    },
+    {
+      "name": "ship-45",
+      "arrivalTime": {
+        "days": 1,
+        "hours": 23,
+        "minutes": 40
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 1,
+        "minutes": 1420
+      },
+      "uploadTime": {
+        "days": 9,
+        "minutes": 20
+      }
+    },
+    {
+      "name": "ship-58",
+      "arrivalTime": {
+        "days": 2,
+        "hours": 15,
+        "minutes": 51
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 1,
+        "minutes": 28
+      },
+      "uploadStart": {
+        "days": 2,
+        "minutes": 1039
+      },
+      "uploadTime": {
+        "days": 10,
+        "minutes": 401
+      }
+    },
+    {
+      "name": "ship-92",
+      "arrivalTime": {
+        "days": 4,
+        "hours": 0,
+        "minutes": 6
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 1,
+        "minutes": 47
+      },
+      "uploadStart": {
+        "days": 4,
+        "minutes": 113
+      },
+      "uploadTime": {
+        "days": 12,
+        "minutes": 1327
+      }
+    },
+    {
+      "name": "ship-39",
+      "arrivalTime": {
+        "days": 4,
+        "hours": 18,
+        "minutes": 0
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 4,
+        "minutes": 1080
+      },
+      "uploadTime": {
+        "days": 12,
+        "minutes": 360
+      }
+    },
+    {
+      "name": "ship-52",
+      "arrivalTime": {
+        "days": 5,
+        "hours": 13,
+        "minutes": 34
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 5,
+        "minutes": 814
+      },
+      "uploadTime": {
+        "days": 13,
+        "minutes": 626
+      }
+    },
+    {
+      "name": "ship-4",
+      "arrivalTime": {
+        "days": 6,
+        "hours": 13,
+        "minutes": 23
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 1,
+        "minutes": 12
+      },
+      "uploadStart": {
+        "days": 6,
+        "minutes": 875
+      },
+      "uploadTime": {
+        "days": 14,
+        "minutes": 565
+      }
+    },
+    {
+      "name": "ship-68",
+      "arrivalTime": {
+        "days": 6,
+        "hours": 16,
+        "minutes": 36
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 6,
+        "minutes": 996
+      },
+      "uploadTime": {
+        "days": 14,
+        "minutes": 444
+      }
+    },
+    {
+      "name": "ship-70",
+      "arrivalTime": {
+        "days": 7,
+        "hours": 2,
+        "minutes": 37
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 4,
+        "minutes": 3
+      },
+      "uploadStart": {
+        "days": 7,
+        "minutes": 400
+      },
+      "uploadTime": {
+        "days": 15,
+        "minutes": 1040
+      }
+    },
+    {
+      "name": "ship-80",
+      "arrivalTime": {
+        "days": 7,
+        "hours": 16,
+        "minutes": 30
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 1,
+        "minutes": 32
+      },
+      "uploadStart": {
+        "days": 7,
+        "minutes": 1082
+      },
+      "uploadTime": {
+        "days": 15,
+        "minutes": 358
+      }
+    },
+    {
+      "name": "ship-77",
+      "arrivalTime": {
+        "days": 7,
+        "hours": 19,
+        "minutes": 37
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 9,
+        "minutes": 46
+      },
+      "uploadStart": {
+        "days": 8,
+        "minutes": 323
+      },
+      "uploadTime": {
+        "days": 16,
+        "minutes": 1117
+      }
+    },
+    {
+      "name": "ship-62",
+      "arrivalTime": {
+        "days": -2,
+        "hours": 5,
+        "minutes": 40
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 10,
+        "minutes": 35
+      },
+      "uploadStart": {
+        "days": -2,
+        "minutes": 975
+      },
+      "uploadTime": {
+        "days": 6,
+        "minutes": 466
+      }
+    },
+    {
+      "name": "ship-49",
+      "arrivalTime": {
+        "days": 1,
+        "hours": 9,
+        "minutes": 30
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 1,
+        "minutes": 570
+      },
+      "uploadTime": {
+        "days": 9,
+        "minutes": 871
+      }
+    },
+    {
+      "name": "ship-89",
+      "arrivalTime": {
+        "days": 2,
+        "hours": 5,
+        "minutes": 46
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 10,
+        "minutes": 18
+      },
+      "uploadStart": {
+        "days": 2,
+        "minutes": 964
+      },
+      "uploadTime": {
+        "days": 10,
+        "minutes": 477
+      }
+    },
+    {
+      "name": "ship-13",
+      "arrivalTime": {
+        "days": 4,
+        "hours": 0,
+        "minutes": 9
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 10,
+        "minutes": 37
+      },
+      "uploadStart": {
+        "days": 4,
+        "minutes": 646
+      },
+      "uploadTime": {
+        "days": 12,
+        "minutes": 795
+      }
+    },
+    {
+      "name": "ship-21",
+      "arrivalTime": {
+        "days": 6,
+        "hours": 6,
+        "minutes": 24
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 6,
+        "minutes": 384
+      },
+      "uploadTime": {
+        "days": 14,
+        "minutes": 1057
+      }
+    },
+    {
+      "name": "ship-98",
+      "arrivalTime": {
+        "days": -2,
+        "hours": 20,
+        "minutes": 57
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": -2,
+        "minutes": 1257
+      },
+      "uploadTime": {
+        "days": 6,
+        "minutes": 185
+      }
+    },
+    {
+      "name": "ship-5",
+      "arrivalTime": {
+        "days": 3,
+        "hours": 22,
+        "minutes": 55
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 3,
+        "minutes": 1375
+      },
+      "uploadTime": {
+        "days": 11,
+        "minutes": 67
+      }
+    },
+    {
+      "name": "ship-9",
+      "arrivalTime": {
+        "days": 6,
+        "hours": 13,
+        "minutes": 25
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 19,
+        "minutes": 40
+      },
+      "uploadStart": {
+        "days": 7,
+        "minutes": 545
+      },
+      "uploadTime": {
+        "days": 15,
+        "minutes": 897
+      }
+    },
+    {
+      "name": "ship-93",
+      "arrivalTime": {
+        "days": 1,
+        "hours": 13,
+        "minutes": 11
+      },
+      "waitingTime": {
+        "days": 2,
+        "hours": 71,
+        "minutes": 6
+      },
+      "uploadStart": {
+        "days": 4,
+        "minutes": 737
+      },
+      "uploadTime": {
+        "days": 12,
+        "minutes": 706
+      }
+    },
+    {
+      "name": "ship-67",
+      "arrivalTime": {
+        "days": 5,
+        "hours": 0,
+        "minutes": 35
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 8,
+        "minutes": 52
+      },
+      "uploadStart": {
+        "days": 5,
+        "minutes": 567
+      },
+      "uploadTime": {
+        "days": 13,
+        "minutes": 877
+      }
+    },
+    {
+      "name": "ship-63",
+      "arrivalTime": {
+        "days": 6,
+        "hours": 21,
+        "minutes": 2
+      },
+      "waitingTime": {
+        "days": 1,
+        "hours": 42,
+        "minutes": 43
+      },
+      "uploadStart": {
+        "days": 6,
+        "minutes": 1262
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 220
+      }
+    },
+    {
+      "name": "ship-27",
+      "arrivalTime": {
+        "days": 7,
+        "hours": 5,
+        "minutes": 53
+      },
+      "waitingTime": {
+        "days": 1,
+        "hours": 41,
+        "minutes": 57
+      },
+      "uploadStart": {
+        "days": 7,
+        "minutes": 353
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1302
+      }
+    },
+    {
+      "name": "ship-72",
+      "arrivalTime": {
+        "days": 8,
+        "hours": 5,
+        "minutes": 57
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 11,
+        "minutes": 7
+      },
+      "uploadStart": {
+        "days": 8,
+        "minutes": 357
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 532
+      }
+    },
+    {
+      "name": "ship-2",
+      "arrivalTime": {
+        "days": 8,
+        "hours": 15,
+        "minutes": 23
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 8,
+        "minutes": 26
+      },
+      "uploadStart": {
+        "days": 8,
+        "minutes": 923
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 296
+      }
+    },
+    {
+      "name": "ship-18",
+      "arrivalTime": {
+        "days": 7,
+        "hours": 18,
+        "minutes": 50
+      },
+      "waitingTime": {
+        "days": 1,
+        "hours": 37,
+        "minutes": 45
+      },
+      "uploadStart": {
+        "days": 8,
+        "minutes": 215
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1353
+      }
+    },
+    {
+      "name": "ship-97",
+      "arrivalTime": {
+        "days": 9,
+        "hours": 4,
+        "minutes": 50
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 9,
+        "minutes": 290
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 157
+      }
+    },
+    {
+      "name": "ship-35",
+      "arrivalTime": {
+        "days": 8,
+        "hours": 22,
+        "minutes": 37
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 4,
+        "minutes": 44
+      },
+      "uploadStart": {
+        "days": 9,
+        "minutes": 128
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 547
+      }
+    },
+    {
+      "name": "ship-99",
+      "arrivalTime": {
+        "days": 9,
+        "hours": 12,
+        "minutes": 27
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 9,
+        "minutes": 747
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 473
+      }
+    },
+    {
+      "name": "ship-81",
+      "arrivalTime": {
+        "days": 9,
+        "hours": 14,
+        "minutes": 0
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 9,
+        "minutes": 840
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 679
+      }
+    },
+    {
+      "name": "ship-22",
+      "arrivalTime": {
+        "days": 9,
+        "hours": 19,
+        "minutes": 5
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 6,
+        "minutes": 15
+      },
+      "uploadStart": {
+        "days": 10,
+        "minutes": 80
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 506
+      }
+    },
+    {
+      "name": "ship-43",
+      "arrivalTime": {
+        "days": 10,
+        "hours": 12,
+        "minutes": 21
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 10,
+        "minutes": 741
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 429
+      }
+    },
+    {
+      "name": "ship-0",
+      "arrivalTime": {
+        "days": 10,
+        "hours": 17,
+        "minutes": 24
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 10,
+        "minutes": 1044
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 749
+      }
+    },
+    {
+      "name": "ship-46",
+      "arrivalTime": {
+        "days": 11,
+        "hours": 5,
+        "minutes": 20
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 34
+      },
+      "uploadStart": {
+        "days": 11,
+        "minutes": 354
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 290
+      }
+    },
+    {
+      "name": "ship-33",
+      "arrivalTime": {
+        "days": 11,
+        "hours": 9,
+        "minutes": 37
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 1,
+        "minutes": 8
+      },
+      "uploadStart": {
+        "days": 11,
+        "minutes": 645
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 545
+      }
+    },
+    {
+      "name": "ship-74",
+      "arrivalTime": {
+        "days": 11,
+        "hours": 6,
+        "minutes": 39
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 11,
+        "minutes": 399
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1183
+      }
+    },
+    {
+      "name": "ship-24",
+      "arrivalTime": {
+        "days": 11,
+        "hours": 17,
+        "minutes": 29
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 8,
+        "minutes": 53
+      },
+      "uploadStart": {
+        "days": 12,
+        "minutes": 142
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 477
+      }
+    },
+    {
+      "name": "ship-94",
+      "arrivalTime": {
+        "days": 11,
+        "hours": 14,
+        "minutes": 50
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 11,
+        "minutes": 890
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1237
+      }
+    },
+    {
+      "name": "ship-6",
+      "arrivalTime": {
+        "days": 12,
+        "hours": 5,
+        "minutes": 9
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 6,
+        "minutes": 19
+      },
+      "uploadStart": {
+        "days": 12,
+        "minutes": 688
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 181
+      }
+    },
+    {
+      "name": "ship-25",
+      "arrivalTime": {
+        "days": 12,
+        "hours": 0,
+        "minutes": 29
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 9,
+        "minutes": 50
+      },
+      "uploadStart": {
+        "days": 12,
+        "minutes": 620
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 543
+      }
+    },
+    {
+      "name": "ship-10",
+      "arrivalTime": {
+        "days": 12,
+        "hours": 23,
+        "minutes": 2
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 12,
+        "minutes": 1382
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 136
+      }
+    },
+    {
+      "name": "ship-71",
+      "arrivalTime": {
+        "days": 12,
+        "hours": 18,
+        "minutes": 3
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 12,
+        "minutes": 1083
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 688
+      }
+    },
+    {
+      "name": "ship-66",
+      "arrivalTime": {
+        "days": 12,
+        "hours": 3,
+        "minutes": 53
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 15,
+        "minutes": 30
+      },
+      "uploadStart": {
+        "days": 12,
+        "minutes": 1164
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1366
+      }
+    },
+    {
+      "name": "ship-57",
+      "arrivalTime": {
+        "days": 12,
+        "hours": 19,
+        "minutes": 47
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 9,
+        "minutes": 45
+      },
+      "uploadStart": {
+        "days": 13,
+        "minutes": 332
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1151
+      }
+    },
+    {
+      "name": "ship-96",
+      "arrivalTime": {
+        "days": 13,
+        "hours": 14,
+        "minutes": 33
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 13,
+        "minutes": 873
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 883
+      }
+    },
+    {
+      "name": "ship-78",
+      "arrivalTime": {
+        "days": 12,
+        "hours": 22,
+        "minutes": 30
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 19,
+        "minutes": 39
+      },
+      "uploadStart": {
+        "days": 13,
+        "minutes": 1090
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 808
+      }
+    },
+    {
+      "name": "ship-3",
+      "arrivalTime": {
+        "days": 13,
+        "hours": 4,
+        "minutes": 35
+      },
+      "waitingTime": {
+        "days": 1,
+        "hours": 27,
+        "minutes": 3
+      },
+      "uploadStart": {
+        "days": 14,
+        "minutes": 458
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1164
+      }
+    },
+    {
+      "name": "ship-86",
+      "arrivalTime": {
+        "days": 14,
+        "hours": 2,
+        "minutes": 22
+      },
+      "waitingTime": {
+        "days": 1,
+        "hours": 24,
+        "minutes": 40
+      },
+      "uploadStart": {
+        "days": 15,
+        "minutes": 183
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 363
+      }
+    },
+    {
+      "name": "ship-87",
+      "arrivalTime": {
+        "days": 14,
+        "hours": 11,
+        "minutes": 38
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 21,
+        "minutes": 28
+      },
+      "uploadStart": {
+        "days": 15,
+        "minutes": 547
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 308
+      }
+    },
+    {
+      "name": "ship-95",
+      "arrivalTime": {
+        "days": 16,
+        "hours": 4,
+        "minutes": 55
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 16,
+        "minutes": 295
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 207
+      }
+    },
+    {
+      "name": "ship-12",
+      "arrivalTime": {
+        "days": 15,
+        "hours": 6,
+        "minutes": 35
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 7,
+        "minutes": 39
+      },
+      "uploadStart": {
+        "days": 15,
+        "minutes": 855
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1222
+      }
+    },
+    {
+      "name": "ship-1",
+      "arrivalTime": {
+        "days": 16,
+        "hours": 5,
+        "minutes": 6
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 16,
+        "minutes": 306
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 1071
+      }
+    },
+    {
+      "name": "ship-76",
+      "arrivalTime": {
+        "days": 16,
+        "hours": 23,
+        "minutes": 3
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 16,
+        "minutes": 1383
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 280
+      }
+    },
+    {
+      "name": "ship-65",
+      "arrivalTime": {
+        "days": 16,
+        "hours": 20,
+        "minutes": 23
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 16,
+        "minutes": 1223
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 473
+      }
+    },
+    {
+      "name": "ship-84",
+      "arrivalTime": {
+        "days": 17,
+        "hours": 3,
+        "minutes": 17
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 27
+      },
+      "uploadStart": {
+        "days": 17,
+        "minutes": 224
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 851
+      }
+    },
+    {
+      "name": "ship-51",
+      "arrivalTime": {
+        "days": 17,
+        "hours": 3,
+        "minutes": 1
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 1,
+        "minutes": 15
+      },
+      "uploadStart": {
+        "days": 17,
+        "minutes": 257
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 935
+      }
+    },
+    {
+      "name": "ship-11",
+      "arrivalTime": {
+        "days": 17,
+        "hours": 19,
+        "minutes": 19
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 33
+      },
+      "uploadStart": {
+        "days": 17,
+        "minutes": 1192
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 326
+      }
+    },
+    {
+      "name": "ship-37",
+      "arrivalTime": {
+        "days": 17,
+        "hours": 6,
+        "minutes": 33
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 17,
+        "minutes": 393
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1287
+      }
+    },
+    {
+      "name": "ship-40",
+      "arrivalTime": {
+        "days": 19,
+        "hours": 0,
+        "minutes": 29
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 19,
+        "minutes": 29
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 143
+      }
+    },
+    {
+      "name": "ship-38",
+      "arrivalTime": {
+        "days": 19,
+        "hours": 3,
+        "minutes": 12
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 19,
+        "minutes": 192
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 559
+      }
+    },
+    {
+      "name": "ship-47",
+      "arrivalTime": {
+        "days": 18,
+        "hours": 22,
+        "minutes": 13
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 18,
+        "minutes": 1333
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1111
+      }
+    },
+    {
+      "name": "ship-73",
+      "arrivalTime": {
+        "days": 19,
+        "hours": 13,
+        "minutes": 44
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 3,
+        "minutes": 1
+      },
+      "uploadStart": {
+        "days": 19,
+        "minutes": 1005
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 706
+      }
+    },
+    {
+      "name": "ship-79",
+      "arrivalTime": {
+        "days": 19,
+        "hours": 12,
+        "minutes": 18
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 19,
+        "minutes": 738
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1017
+      }
+    },
+    {
+      "name": "ship-41",
+      "arrivalTime": {
+        "days": 19,
+        "hours": 21,
+        "minutes": 55
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 7,
+        "minutes": 20
+      },
+      "uploadStart": {
+        "days": 20,
+        "minutes": 315
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 6
+      }
+    },
+    {
+      "name": "ship-15",
+      "arrivalTime": {
+        "days": 19,
+        "hours": 22,
+        "minutes": 45
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 19,
+        "minutes": 1365
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 630
+      }
+    },
+    {
+      "name": "ship-26",
+      "arrivalTime": {
+        "days": 20,
+        "hours": 14,
+        "minutes": 37
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 20,
+        "minutes": 877
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 861
+      }
+    },
+    {
+      "name": "ship-42",
+      "arrivalTime": {
+        "days": 20,
+        "hours": 16,
+        "minutes": 42
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 12,
+        "minutes": 16
+      },
+      "uploadStart": {
+        "days": 21,
+        "minutes": 298
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 422
+      }
+    },
+    {
+      "name": "ship-54",
+      "arrivalTime": {
+        "days": 21,
+        "hours": 9,
+        "minutes": 42
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 21,
+        "minutes": 582
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 580
+      }
+    },
+    {
+      "name": "ship-69",
+      "arrivalTime": {
+        "days": 21,
+        "hours": 14,
+        "minutes": 16
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 21,
+        "minutes": 856
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 549
+      }
+    },
+    {
+      "name": "ship-16",
+      "arrivalTime": {
+        "days": 21,
+        "hours": 21,
+        "minutes": 3
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 21,
+        "minutes": 1263
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 896
+      }
+    },
+    {
+      "name": "ship-8",
+      "arrivalTime": {
+        "days": 22,
+        "hours": 11,
+        "minutes": 9
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 22,
+        "minutes": 669
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 122
+      }
+    },
+    {
+      "name": "ship-55",
+      "arrivalTime": {
+        "days": 21,
+        "hours": 19,
+        "minutes": 1
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 4,
+        "minutes": 25
+      },
+      "uploadStart": {
+        "days": 21,
+        "minutes": 1406
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1023
+      }
+    },
+    {
+      "name": "ship-61",
+      "arrivalTime": {
+        "days": 22,
+        "hours": 3,
+        "minutes": 37
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 12,
+        "minutes": 53
+      },
+      "uploadStart": {
+        "days": 22,
+        "minutes": 990
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 782
+      }
+    },
+    {
+      "name": "ship-19",
+      "arrivalTime": {
+        "days": 22,
+        "hours": 23,
+        "minutes": 22
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 22,
+        "minutes": 1402
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 785
+      }
+    },
+    {
+      "name": "ship-50",
+      "arrivalTime": {
+        "days": 23,
+        "hours": 8,
+        "minutes": 22
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 23,
+        "minutes": 502
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 377
+      }
+    },
+    {
+      "name": "ship-20",
+      "arrivalTime": {
+        "days": 23,
+        "hours": 15,
+        "minutes": 22
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 23,
+        "minutes": 922
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 431
+      }
+    },
+    {
+      "name": "ship-56",
+      "arrivalTime": {
+        "days": 23,
+        "hours": 1,
+        "minutes": 18
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 11,
+        "minutes": 10
+      },
+      "uploadStart": {
+        "days": 23,
+        "minutes": 748
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 646
+      }
+    },
+    {
+      "name": "ship-85",
+      "arrivalTime": {
+        "days": 23,
+        "hours": 5,
+        "minutes": 52
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 23,
+        "minutes": 352
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1452
+      }
+    },
+    {
+      "name": "ship-29",
+      "arrivalTime": {
+        "days": 23,
+        "hours": 18,
+        "minutes": 54
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 4,
+        "minutes": 21
+      },
+      "uploadStart": {
+        "days": 23,
+        "minutes": 1395
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 900
+      }
+    },
+    {
+      "name": "ship-28",
+      "arrivalTime": {
+        "days": 23,
+        "hours": 20,
+        "minutes": 2
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 10,
+        "minutes": 3
+      },
+      "uploadStart": {
+        "days": 24,
+        "minutes": 365
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 556
+      }
+    },
+    {
+      "name": "ship-91",
+      "arrivalTime": {
+        "days": 24,
+        "hours": 3,
+        "minutes": 18
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 10,
+        "minutes": 58
+      },
+      "uploadStart": {
+        "days": 24,
+        "minutes": 856
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 544
+      }
+    },
+    {
+      "name": "ship-83",
+      "arrivalTime": {
+        "days": 25,
+        "hours": 15,
+        "minutes": 24
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 25,
+        "minutes": 924
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 335
+      }
+    },
+    {
+      "name": "ship-30",
+      "arrivalTime": {
+        "days": 25,
+        "hours": 23,
+        "minutes": 24
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 25,
+        "minutes": 1404
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 136
+      }
+    },
+    {
+      "name": "ship-31",
+      "arrivalTime": {
+        "days": 25,
+        "hours": 13,
+        "minutes": 35
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 25,
+        "minutes": 815
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1399
+      }
+    },
+    {
+      "name": "ship-59",
+      "arrivalTime": {
+        "days": 26,
+        "hours": 12,
+        "minutes": 2
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 53
+      },
+      "uploadStart": {
+        "days": 26,
+        "minutes": 775
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 684
+      }
+    },
+    {
+      "name": "ship-90",
+      "arrivalTime": {
+        "days": 26,
+        "hours": 16,
+        "minutes": 14
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 26,
+        "minutes": 974
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 545
+      }
+    },
+    {
+      "name": "ship-34",
+      "arrivalTime": {
+        "days": 26,
+        "hours": 12,
+        "minutes": 11
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 26,
+        "minutes": 731
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1213
+      }
+    },
+    {
+      "name": "ship-53",
+      "arrivalTime": {
+        "days": 27,
+        "hours": 21,
+        "minutes": 51
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 27,
+        "minutes": 1311
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1250
+      }
+    },
+    {
+      "name": "ship-23",
+      "arrivalTime": {
+        "days": 28,
+        "hours": 12,
+        "minutes": 47
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 28,
+        "minutes": 767
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 836
+      }
+    },
+    {
+      "name": "ship-36",
+      "arrivalTime": {
+        "days": 28,
+        "hours": 19,
+        "minutes": 4
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 7,
+        "minutes": 40
+      },
+      "uploadStart": {
+        "days": 29,
+        "minutes": 164
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 493
+      }
+    },
+    {
+      "name": "ship-44",
+      "arrivalTime": {
+        "days": 28,
+        "hours": 8,
+        "minutes": 14
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 10,
+        "minutes": 26
+      },
+      "uploadStart": {
+        "days": 28,
+        "minutes": 1121
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1490
+      }
+    },
+    {
+      "name": "ship-88",
+      "arrivalTime": {
+        "days": 28,
+        "hours": 18,
+        "minutes": 0
+      },
+      "waitingTime": {
+        "days": 1,
+        "hours": 25,
+        "minutes": 31
+      },
+      "uploadStart": {
+        "days": 29,
+        "minutes": 1171
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 1035
+      }
+    },
+    {
+      "name": "ship-60",
+      "arrivalTime": {
+        "days": 30,
+        "hours": 10,
+        "minutes": 28
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 30,
+        "minutes": 628
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 730
+      }
+    },
+    {
+      "name": "ship-82",
+      "arrivalTime": {
+        "days": 32,
+        "hours": 3,
+        "minutes": 28
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 32,
+        "minutes": 208
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 675
+      }
+    },
+    {
+      "name": "ship-32",
+      "arrivalTime": {
+        "days": 32,
+        "hours": 19,
+        "minutes": 49
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 32,
+        "minutes": 1189
+      },
+      "uploadTime": {
+        "days": 0,
+        "minutes": 78
+      }
+    },
+    {
+      "name": "ship-7",
+      "arrivalTime": {
+        "days": 33,
+        "hours": 18,
+        "minutes": 41
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 33,
+        "minutes": 1121
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 815
+      }
+    },
+    {
+      "name": "ship-14",
+      "arrivalTime": {
+        "days": 34,
+        "hours": 21,
+        "minutes": 50
+      },
+      "waitingTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      },
+      "uploadStart": {
+        "days": 34,
+        "minutes": 1310
+      },
+      "uploadTime": {
+        "days": 1,
+        "minutes": 671
+      }
+    }
+  ],
+  "countUnload": 100,
+  "lengthUnloadQueueAvg": 3.0,
+  "avgTimeUnloadQueue": 361.0,
+  "avgDelayUnload": 3.0,
+  "maxDelayUnload": 2,
+  "sumTax": 27900,
+  "countCraneLOOSE": 2,
+  "countCraneLIQUID": 1,
+  "countCraneCONTAINER": 1
+}

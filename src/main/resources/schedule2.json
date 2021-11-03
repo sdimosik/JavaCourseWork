@@ -1,0 +1,1504 @@
+{
+  "list": [
+    {
+      "arrivalTime": {
+        "days": 28,
+        "minutes": 1197
+      },
+      "name": "ship-0",
+      "type": "LOOSE",
+      "parkingTime": 492,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 492
+    },
+    {
+      "arrivalTime": {
+        "days": 8,
+        "minutes": 1166
+      },
+      "name": "ship-1",
+      "type": "LIQUID",
+      "parkingTime": 2471,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2471
+    },
+    {
+      "arrivalTime": {
+        "days": 1,
+        "minutes": 74
+      },
+      "name": "ship-2",
+      "type": "LOOSE",
+      "parkingTime": 1807,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1807
+    },
+    {
+      "arrivalTime": {
+        "days": 1,
+        "minutes": 1327
+      },
+      "name": "ship-3",
+      "type": "CONTAINER",
+      "parkingTime": 2877,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2877
+    },
+    {
+      "arrivalTime": {
+        "days": 7,
+        "minutes": 155
+      },
+      "name": "ship-4",
+      "type": "LIQUID",
+      "parkingTime": 2795,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2795
+    },
+    {
+      "arrivalTime": {
+        "days": 26,
+        "minutes": 536
+      },
+      "name": "ship-5",
+      "type": "CONTAINER",
+      "parkingTime": 842,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 842
+    },
+    {
+      "arrivalTime": {
+        "days": 17,
+        "minutes": 1357
+      },
+      "name": "ship-6",
+      "type": "CONTAINER",
+      "parkingTime": 1000,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1000
+    },
+    {
+      "arrivalTime": {
+        "days": 14,
+        "minutes": 757
+      },
+      "name": "ship-7",
+      "type": "LOOSE",
+      "parkingTime": 17,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 17
+    },
+    {
+      "arrivalTime": {
+        "days": 2,
+        "minutes": 1428
+      },
+      "name": "ship-8",
+      "type": "CONTAINER",
+      "parkingTime": 2615,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2615
+    },
+    {
+      "arrivalTime": {
+        "days": 6,
+        "minutes": 1229
+      },
+      "name": "ship-9",
+      "type": "CONTAINER",
+      "parkingTime": 451,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 451
+    },
+    {
+      "arrivalTime": {
+        "days": 4,
+        "minutes": 1087
+      },
+      "name": "ship-10",
+      "type": "LOOSE",
+      "parkingTime": 2813,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2813
+    },
+    {
+      "arrivalTime": {
+        "days": 9,
+        "minutes": 459
+      },
+      "name": "ship-11",
+      "type": "LIQUID",
+      "parkingTime": 210,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 210
+    },
+    {
+      "arrivalTime": {
+        "days": 16,
+        "minutes": 1265
+      },
+      "name": "ship-12",
+      "type": "LOOSE",
+      "parkingTime": 1576,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1576
+    },
+    {
+      "arrivalTime": {
+        "days": 21,
+        "minutes": 1165
+      },
+      "name": "ship-13",
+      "type": "CONTAINER",
+      "parkingTime": 1183,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1183
+    },
+    {
+      "arrivalTime": {
+        "days": 18,
+        "minutes": 552
+      },
+      "name": "ship-14",
+      "type": "LIQUID",
+      "parkingTime": 96,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 96
+    },
+    {
+      "arrivalTime": {
+        "days": 15,
+        "minutes": 545
+      },
+      "name": "ship-15",
+      "type": "LOOSE",
+      "parkingTime": 546,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 546
+    },
+    {
+      "arrivalTime": {
+        "days": 15,
+        "minutes": 1303
+      },
+      "name": "ship-16",
+      "type": "CONTAINER",
+      "parkingTime": 1590,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1590
+    },
+    {
+      "arrivalTime": {
+        "days": 5,
+        "minutes": 404
+      },
+      "name": "ship-17",
+      "type": "LOOSE",
+      "parkingTime": 1065,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1065
+    },
+    {
+      "arrivalTime": {
+        "days": 20,
+        "minutes": 143
+      },
+      "name": "ship-18",
+      "type": "CONTAINER",
+      "parkingTime": 2089,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2089
+    },
+    {
+      "arrivalTime": {
+        "days": 28,
+        "minutes": 100
+      },
+      "name": "ship-19",
+      "type": "CONTAINER",
+      "parkingTime": 2190,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2190
+    },
+    {
+      "arrivalTime": {
+        "days": 5,
+        "minutes": 801
+      },
+      "name": "ship-20",
+      "type": "LOOSE",
+      "parkingTime": 2515,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2515
+    },
+    {
+      "arrivalTime": {
+        "days": 19,
+        "minutes": 373
+      },
+      "name": "ship-21",
+      "type": "LOOSE",
+      "parkingTime": 654,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 654
+    },
+    {
+      "arrivalTime": {
+        "days": 27,
+        "minutes": 1287
+      },
+      "name": "ship-22",
+      "type": "LOOSE",
+      "parkingTime": 2148,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2148
+    },
+    {
+      "arrivalTime": {
+        "days": 12,
+        "minutes": 431
+      },
+      "name": "ship-23",
+      "type": "LIQUID",
+      "parkingTime": 5,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 5
+    },
+    {
+      "arrivalTime": {
+        "days": 16,
+        "minutes": 1255
+      },
+      "name": "ship-24",
+      "type": "LIQUID",
+      "parkingTime": 287,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 287
+    },
+    {
+      "arrivalTime": {
+        "days": 11,
+        "minutes": 1254
+      },
+      "name": "ship-25",
+      "type": "CONTAINER",
+      "parkingTime": 2280,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2280
+    },
+    {
+      "arrivalTime": {
+        "days": 28,
+        "minutes": 974
+      },
+      "name": "ship-26",
+      "type": "LIQUID",
+      "parkingTime": 674,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 674
+    },
+    {
+      "arrivalTime": {
+        "days": 12,
+        "minutes": 1090
+      },
+      "name": "ship-27",
+      "type": "LOOSE",
+      "parkingTime": 784,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 784
+    },
+    {
+      "arrivalTime": {
+        "days": 10,
+        "minutes": 1085
+      },
+      "name": "ship-28",
+      "type": "LOOSE",
+      "parkingTime": 2036,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2036
+    },
+    {
+      "arrivalTime": {
+        "days": 25,
+        "minutes": 1131
+      },
+      "name": "ship-29",
+      "type": "CONTAINER",
+      "parkingTime": 2639,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2639
+    },
+    {
+      "arrivalTime": {
+        "days": 19,
+        "minutes": 1163
+      },
+      "name": "ship-30",
+      "type": "LOOSE",
+      "parkingTime": 782,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 782
+    },
+    {
+      "arrivalTime": {
+        "days": 22,
+        "minutes": 883
+      },
+      "name": "ship-31",
+      "type": "CONTAINER",
+      "parkingTime": 2592,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2592
+    },
+    {
+      "arrivalTime": {
+        "days": 5,
+        "minutes": 1242
+      },
+      "name": "ship-32",
+      "type": "LOOSE",
+      "parkingTime": 2694,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2694
+    },
+    {
+      "arrivalTime": {
+        "days": 1,
+        "minutes": 488
+      },
+      "name": "ship-33",
+      "type": "LIQUID",
+      "parkingTime": 1250,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1250
+    },
+    {
+      "arrivalTime": {
+        "days": 23,
+        "minutes": 709
+      },
+      "name": "ship-34",
+      "type": "LOOSE",
+      "parkingTime": 2206,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2206
+    },
+    {
+      "arrivalTime": {
+        "days": 8,
+        "minutes": 293
+      },
+      "name": "ship-35",
+      "type": "LOOSE",
+      "parkingTime": 2704,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2704
+    },
+    {
+      "arrivalTime": {
+        "days": 6,
+        "minutes": 897
+      },
+      "name": "ship-36",
+      "type": "LIQUID",
+      "parkingTime": 2560,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2560
+    },
+    {
+      "arrivalTime": {
+        "days": 10,
+        "minutes": 1284
+      },
+      "name": "ship-37",
+      "type": "CONTAINER",
+      "parkingTime": 2254,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2254
+    },
+    {
+      "arrivalTime": {
+        "days": 22,
+        "minutes": 741
+      },
+      "name": "ship-38",
+      "type": "CONTAINER",
+      "parkingTime": 934,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 934
+    },
+    {
+      "arrivalTime": {
+        "days": 25,
+        "minutes": 251
+      },
+      "name": "ship-39",
+      "type": "LOOSE",
+      "parkingTime": 2651,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2651
+    },
+    {
+      "arrivalTime": {
+        "days": 10,
+        "minutes": 1176
+      },
+      "name": "ship-40",
+      "type": "CONTAINER",
+      "parkingTime": 1368,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1368
+    },
+    {
+      "arrivalTime": {
+        "days": 7,
+        "minutes": 1299
+      },
+      "name": "ship-41",
+      "type": "LIQUID",
+      "parkingTime": 2090,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2090
+    },
+    {
+      "arrivalTime": {
+        "days": 13,
+        "minutes": 1181
+      },
+      "name": "ship-42",
+      "type": "LOOSE",
+      "parkingTime": 2055,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2055
+    },
+    {
+      "arrivalTime": {
+        "days": 21,
+        "minutes": 878
+      },
+      "name": "ship-43",
+      "type": "CONTAINER",
+      "parkingTime": 2880,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2880
+    },
+    {
+      "arrivalTime": {
+        "days": 20,
+        "minutes": 403
+      },
+      "name": "ship-44",
+      "type": "CONTAINER",
+      "parkingTime": 322,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 322
+    },
+    {
+      "arrivalTime": {
+        "days": 6,
+        "minutes": 320
+      },
+      "name": "ship-45",
+      "type": "CONTAINER",
+      "parkingTime": 504,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 504
+    },
+    {
+      "arrivalTime": {
+        "days": 9,
+        "minutes": 647
+      },
+      "name": "ship-46",
+      "type": "LIQUID",
+      "parkingTime": 2368,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2368
+    },
+    {
+      "arrivalTime": {
+        "days": 3,
+        "minutes": 905
+      },
+      "name": "ship-47",
+      "type": "LOOSE",
+      "parkingTime": 507,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 507
+    },
+    {
+      "arrivalTime": {
+        "days": 23,
+        "minutes": 278
+      },
+      "name": "ship-48",
+      "type": "LOOSE",
+      "parkingTime": 1615,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1615
+    },
+    {
+      "arrivalTime": {
+        "days": 9,
+        "minutes": 172
+      },
+      "name": "ship-49",
+      "type": "LOOSE",
+      "parkingTime": 424,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 424
+    },
+    {
+      "arrivalTime": {
+        "days": 21,
+        "minutes": 453
+      },
+      "name": "ship-50",
+      "type": "CONTAINER",
+      "parkingTime": 1193,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1193
+    },
+    {
+      "arrivalTime": {
+        "days": 8,
+        "minutes": 1366
+      },
+      "name": "ship-51",
+      "type": "LIQUID",
+      "parkingTime": 683,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 683
+    },
+    {
+      "arrivalTime": {
+        "days": 24,
+        "minutes": 682
+      },
+      "name": "ship-52",
+      "type": "CONTAINER",
+      "parkingTime": 935,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 935
+    },
+    {
+      "arrivalTime": {
+        "days": 20,
+        "minutes": 745
+      },
+      "name": "ship-53",
+      "type": "LOOSE",
+      "parkingTime": 1194,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1194
+    },
+    {
+      "arrivalTime": {
+        "days": 16,
+        "minutes": 470
+      },
+      "name": "ship-54",
+      "type": "LIQUID",
+      "parkingTime": 1925,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1925
+    },
+    {
+      "arrivalTime": {
+        "days": 28,
+        "minutes": 1345
+      },
+      "name": "ship-55",
+      "type": "LIQUID",
+      "parkingTime": 1066,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1066
+    },
+    {
+      "arrivalTime": {
+        "days": 19,
+        "minutes": 1098
+      },
+      "name": "ship-56",
+      "type": "LIQUID",
+      "parkingTime": 1437,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1437
+    },
+    {
+      "arrivalTime": {
+        "days": 1,
+        "minutes": 1387
+      },
+      "name": "ship-57",
+      "type": "CONTAINER",
+      "parkingTime": 1655,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1655
+    },
+    {
+      "arrivalTime": {
+        "days": 17,
+        "minutes": 534
+      },
+      "name": "ship-58",
+      "type": "LIQUID",
+      "parkingTime": 2824,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2824
+    },
+    {
+      "arrivalTime": {
+        "days": 20,
+        "minutes": 871
+      },
+      "name": "ship-59",
+      "type": "CONTAINER",
+      "parkingTime": 1892,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1892
+    },
+    {
+      "arrivalTime": {
+        "days": 4,
+        "minutes": 736
+      },
+      "name": "ship-60",
+      "type": "CONTAINER",
+      "parkingTime": 2710,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2710
+    },
+    {
+      "arrivalTime": {
+        "days": 1,
+        "minutes": 1175
+      },
+      "name": "ship-61",
+      "type": "LIQUID",
+      "parkingTime": 2588,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2588
+    },
+    {
+      "arrivalTime": {
+        "days": 21,
+        "minutes": 901
+      },
+      "name": "ship-62",
+      "type": "CONTAINER",
+      "parkingTime": 2521,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2521
+    },
+    {
+      "arrivalTime": {
+        "days": 27,
+        "minutes": 184
+      },
+      "name": "ship-63",
+      "type": "CONTAINER",
+      "parkingTime": 1164,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1164
+    },
+    {
+      "arrivalTime": {
+        "days": 27,
+        "minutes": 953
+      },
+      "name": "ship-64",
+      "type": "CONTAINER",
+      "parkingTime": 2217,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2217
+    },
+    {
+      "arrivalTime": {
+        "days": 8,
+        "minutes": 224
+      },
+      "name": "ship-65",
+      "type": "CONTAINER",
+      "parkingTime": 1010,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1010
+    },
+    {
+      "arrivalTime": {
+        "days": 20,
+        "minutes": 1060
+      },
+      "name": "ship-66",
+      "type": "LOOSE",
+      "parkingTime": 768,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 768
+    },
+    {
+      "arrivalTime": {
+        "days": 9,
+        "minutes": 388
+      },
+      "name": "ship-67",
+      "type": "LIQUID",
+      "parkingTime": 425,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 425
+    },
+    {
+      "arrivalTime": {
+        "days": 18,
+        "minutes": 620
+      },
+      "name": "ship-68",
+      "type": "LIQUID",
+      "parkingTime": 1718,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1718
+    },
+    {
+      "arrivalTime": {
+        "days": 26,
+        "minutes": 1316
+      },
+      "name": "ship-69",
+      "type": "LIQUID",
+      "parkingTime": 1822,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1822
+    },
+    {
+      "arrivalTime": {
+        "days": 20,
+        "minutes": 471
+      },
+      "name": "ship-70",
+      "type": "CONTAINER",
+      "parkingTime": 1906,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1906
+    },
+    {
+      "arrivalTime": {
+        "days": 5,
+        "minutes": 486
+      },
+      "name": "ship-71",
+      "type": "LOOSE",
+      "parkingTime": 1663,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1663
+    },
+    {
+      "arrivalTime": {
+        "days": 14,
+        "minutes": 987
+      },
+      "name": "ship-72",
+      "type": "LOOSE",
+      "parkingTime": 2167,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2167
+    },
+    {
+      "arrivalTime": {
+        "days": 6,
+        "minutes": 1063
+      },
+      "name": "ship-73",
+      "type": "CONTAINER",
+      "parkingTime": 320,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 320
+    },
+    {
+      "arrivalTime": {
+        "days": 12,
+        "minutes": 533
+      },
+      "name": "ship-74",
+      "type": "LIQUID",
+      "parkingTime": 1580,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1580
+    },
+    {
+      "arrivalTime": {
+        "days": 10,
+        "minutes": 113
+      },
+      "name": "ship-75",
+      "type": "LOOSE",
+      "parkingTime": 2799,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2799
+    },
+    {
+      "arrivalTime": {
+        "days": 15,
+        "minutes": 608
+      },
+      "name": "ship-76",
+      "type": "LOOSE",
+      "parkingTime": 604,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 604
+    },
+    {
+      "arrivalTime": {
+        "days": 22,
+        "minutes": 91
+      },
+      "name": "ship-77",
+      "type": "CONTAINER",
+      "parkingTime": 55,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 55
+    },
+    {
+      "arrivalTime": {
+        "days": 2,
+        "minutes": 1289
+      },
+      "name": "ship-78",
+      "type": "CONTAINER",
+      "parkingTime": 164,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 164
+    },
+    {
+      "arrivalTime": {
+        "days": 18,
+        "minutes": 81
+      },
+      "name": "ship-79",
+      "type": "CONTAINER",
+      "parkingTime": 2297,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2297
+    },
+    {
+      "arrivalTime": {
+        "days": 2,
+        "minutes": 1207
+      },
+      "name": "ship-80",
+      "type": "CONTAINER",
+      "parkingTime": 2510,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2510
+    },
+    {
+      "arrivalTime": {
+        "days": 4,
+        "minutes": 1314
+      },
+      "name": "ship-81",
+      "type": "LOOSE",
+      "parkingTime": 1551,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1551
+    },
+    {
+      "arrivalTime": {
+        "days": 1,
+        "minutes": 796
+      },
+      "name": "ship-82",
+      "type": "LIQUID",
+      "parkingTime": 2434,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2434
+    },
+    {
+      "arrivalTime": {
+        "days": 28,
+        "minutes": 7
+      },
+      "name": "ship-83",
+      "type": "CONTAINER",
+      "parkingTime": 2363,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2363
+    },
+    {
+      "arrivalTime": {
+        "days": 22,
+        "minutes": 726
+      },
+      "name": "ship-84",
+      "type": "LOOSE",
+      "parkingTime": 157,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 157
+    },
+    {
+      "arrivalTime": {
+        "days": 1,
+        "minutes": 1335
+      },
+      "name": "ship-85",
+      "type": "CONTAINER",
+      "parkingTime": 2383,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2383
+    },
+    {
+      "arrivalTime": {
+        "days": 20,
+        "minutes": 745
+      },
+      "name": "ship-86",
+      "type": "LIQUID",
+      "parkingTime": 1965,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1965
+    },
+    {
+      "arrivalTime": {
+        "days": 15,
+        "minutes": 936
+      },
+      "name": "ship-87",
+      "type": "CONTAINER",
+      "parkingTime": 268,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 268
+    },
+    {
+      "arrivalTime": {
+        "days": 25,
+        "minutes": 190
+      },
+      "name": "ship-88",
+      "type": "CONTAINER",
+      "parkingTime": 2427,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2427
+    },
+    {
+      "arrivalTime": {
+        "days": 2,
+        "minutes": 157
+      },
+      "name": "ship-89",
+      "type": "LIQUID",
+      "parkingTime": 1097,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1097
+    },
+    {
+      "arrivalTime": {
+        "days": 2,
+        "minutes": 357
+      },
+      "name": "ship-90",
+      "type": "LIQUID",
+      "parkingTime": 2751,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2751
+    },
+    {
+      "arrivalTime": {
+        "days": 21,
+        "minutes": 725
+      },
+      "name": "ship-91",
+      "type": "LOOSE",
+      "parkingTime": 2259,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2259
+    },
+    {
+      "arrivalTime": {
+        "days": 9,
+        "minutes": 637
+      },
+      "name": "ship-92",
+      "type": "CONTAINER",
+      "parkingTime": 621,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 621
+    },
+    {
+      "arrivalTime": {
+        "days": 12,
+        "minutes": 1136
+      },
+      "name": "ship-93",
+      "type": "CONTAINER",
+      "parkingTime": 502,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 502
+    },
+    {
+      "arrivalTime": {
+        "days": 26,
+        "minutes": 843
+      },
+      "name": "ship-94",
+      "type": "CONTAINER",
+      "parkingTime": 1571,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1571
+    },
+    {
+      "arrivalTime": {
+        "days": 23,
+        "minutes": 190
+      },
+      "name": "ship-95",
+      "type": "LIQUID",
+      "parkingTime": 1592,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1592
+    },
+    {
+      "arrivalTime": {
+        "days": 27,
+        "minutes": 908
+      },
+      "name": "ship-96",
+      "type": "CONTAINER",
+      "parkingTime": 742,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 742
+    },
+    {
+      "arrivalTime": {
+        "days": 11,
+        "minutes": 463
+      },
+      "name": "ship-97",
+      "type": "LOOSE",
+      "parkingTime": 2804,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 2804
+    },
+    {
+      "arrivalTime": {
+        "days": 8,
+        "minutes": 1023
+      },
+      "name": "ship-98",
+      "type": "CONTAINER",
+      "parkingTime": 1572,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 1572
+    },
+    {
+      "arrivalTime": {
+        "days": 12,
+        "minutes": 573
+      },
+      "name": "ship-99",
+      "type": "LIQUID",
+      "parkingTime": 154,
+      "countCraneExecuting": 0,
+      "tax": {
+        "minutes": 0,
+        "cash": 0
+      },
+      "quantity": 154
+    }
+  ]
+}
